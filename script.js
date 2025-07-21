@@ -101,10 +101,13 @@ function resetFilters() {
 }
 
 function openModal(video) {
+  console.log("DESCRIPTION =", video.description);
+  
   document.getElementById("modal-filename").textContent = video.filename;
   document.getElementById("modal-carte").textContent = video.carte;
   document.getElementById("modal-rupture").textContent = video.type_rupture;
   document.getElementById("modal-donnee").textContent = video.donnee_impactee;
+  document.getElementById("modal-description").textContent = video.description || "—";
   document.getElementById("modal-video").src = "Videos/" + video.filename;
 
   document.getElementById("modal-overlay").classList.remove("hidden");

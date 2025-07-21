@@ -194,3 +194,9 @@ body:not(.dark) #background-overlay {
 .dark #video-count {
   color: var(--primary);
 }
+
+#modal-description {
+  color: black;
+  font-style: italic;
+  display: inline;
+}
