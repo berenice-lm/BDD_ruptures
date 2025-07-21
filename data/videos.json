@@ -1,5 +1,89 @@
 [
   {
+    "filename": "Maps_ancien.mp4",
+    "carte": "Google Maps",
+    "type_rupture": "non_rempli",
+    "donnee_impactee": "non_rempli"
+  },
+  {
+    "filename": "Maps1.mp4",
+    "carte": "Google Maps",
+    "type_rupture": "non_rempli",
+    "donnee_impactee": "non_rempli"
+  },
+  {
+    "filename": "Maps2.mp4",
+    "carte": "Google Maps",
+    "type_rupture": "non_rempli",
+    "donnee_impactee": "non_rempli"
+  },
+  {
+    "filename": "Maps3.mp4",
+    "carte": "Google Maps",
+    "type_rupture": "non_rempli",
+    "donnee_impactee": "non_rempli"
+  },
+  {
+    "filename": "Maps4.mp4",
+    "carte": "Google Maps",
+    "type_rupture": "non_rempli",
+    "donnee_impactee": "non_rempli"
+  },
+  {
+    "filename": "Maps5.mp4",
+    "carte": "Google Maps",
+    "type_rupture": "non_rempli",
+    "donnee_impactee": "non_rempli"
+  },
+  {
+    "filename": "Maps6.mp4",
+    "carte": "Google Maps",
+    "type_rupture": "non_rempli",
+    "donnee_impactee": "non_rempli"
+  },
+  {
+    "filename": "Maps7.mp4",
+    "carte": "Google Maps",
+    "type_rupture": "non_rempli",
+    "donnee_impactee": "non_rempli"
+  },
+  {
+    "filename": "Maps8.mp4",
+    "carte": "Google Maps",
+    "type_rupture": "non_rempli",
+    "donnee_impactee": "non_rempli"
+  },
+  {
+    "filename": "Maps9.mp4",
+    "carte": "Google Maps",
+    "type_rupture": "non_rempli",
+    "donnee_impactee": "non_rempli"
+  },
+  {
+    "filename": "Maps10.mp4",
+    "carte": "Google Maps",
+    "type_rupture": "non_rempli",
+    "donnee_impactee": "non_rempli"
+  },
+  {
+    "filename": "Maps11.mp4",
+    "carte": "Google Maps",
+    "type_rupture": "non_rempli",
+    "donnee_impactee": "non_rempli"
+  },
+  {
+    "filename": "Maps12.mp4",
+    "carte": "Google Maps",
+    "type_rupture": "non_rempli",
+    "donnee_impactee": "non_rempli"
+  },
+  {
+    "filename": "Maps13.mp4",
+    "carte": "Google Maps",
+    "type_rupture": "non_rempli",
+    "donnee_impactee": "non_rempli"
+  },
+  {
     "filename": "Vidéo_01.mp4",
     "carte": "La bonne carte (exp.1)",
     "type_rupture": "incohérence stylistique",
@@ -161,4 +245,46 @@
     "type_rupture": "non_rempli",
     "donnee_impactee": "non_rempli"
   },
+  { 
+    "filename": "Vidéo_A1_ini.mp4",
+    "carte": "La bonne carte (exp.0)",
+    "type_rupture": "non_rempli",
+    "donnee_impactee": "non_rempli"
+  },
+  {
+    "filename": "Vidéo_A3_ini.mp4",
+    "carte": "La bonne carte (exp.0)",
+    "type_rupture": "non_rempli",
+    "donnee_impactee": "non_rempli"
+  },
+  {
+    "filename": "Vidéo_A4_ini.mp4",
+    "carte": "La bonne carte (exp.0)",
+    "type_rupture": "non_rempli",
+    "donnee_impactee": "non_rempli"
+  },
+  {
+    "filename": "Vidéo_A5_ini.mp4",
+    "carte": "La bonne carte (exp.0)",
+    "type_rupture": "non_rempli",
+    "donnee_impactee": "non_rempli"
+  },
+  {
+    "filename": "Vidéo_A6_ini.mp4",
+    "carte": "La bonne carte (exp.0)",
+    "type_rupture": "non_rempli",
+    "donnee_impactee": "non_rempli"
+  },
+  {
+    "filename": "Vidéo_A7_ini.mp4",
+    "carte": "La bonne carte (exp.0)",
+    "type_rupture": "non_rempli",
+    "donnee_impactee": "non_rempli"
+  },
+  {
+    "filename": "Vidéo_A10_ini.mp4",
+    "carte": "La bonne carte (exp.0)",
+    "type_rupture": "non_rempli",
+    "donnee_impactee": "non_rempli"
+  }
 ]
