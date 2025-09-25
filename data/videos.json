@@ -37,37 +37,37 @@
   {
     "filename": "Maps5.mp4",
     "carte": "Google Maps",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "rythmique",
+    "donnee_impactee": "lac",
+    "description": "La sélection des lacs représente mal l'emprise de tous les lacs au zoom suivant, ce qui surprend"
   },
   {
     "filename": "Maps6.mp4",
     "carte": "Google Maps",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "rythmique",
+    "donnee_impactee": "rivière",
+    "description": "Les rivières linéaires ne sont pas du tout généralisées, ce surprend en plus d'apporter du clutter dans la carte. Il aurait fallu répartir les détails des rivières sur plus de niveaux de zoom"
   },
   {
     "filename": "Maps7.mp4",
     "carte": "Google Maps",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "uniformité",
+    "donnee_impactee": "toponyme",
+    "description": "Les toponymes ne sont pas du tout hiérarchisés possèdent tous le même style (taille, forme, couleur), ce qui peut poser problème car la vue cartographique ne garde pas les points de repères des vues d'avant et après"
   },
   {
     "filename": "Maps8.mp4",
     "carte": "Google Maps",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "cohérence",
+    "donnee_impactee": "route",
+    "description": "La densité des routes ne correspond pas à la densité des toponymes. L'impression de routes qui ne mènent à rien s'ajoutent à l'incompréhension du processus de sélection des toponymes"
   },
   {
     "filename": "Maps9.mp4",
     "carte": "Google Maps",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "cohérence",
+    "donnee_impactee": "aire urbaine",
+    "description": "La sélection des aires urbaines ne correspond pas à celle des toponymes. Le nombre d'aires urbaines sans toponyme interroge. Néanmoins, les aires semblent cohérentes avec le réseau routier, ce qui peut signifier que les deux jeux de données sont trop denses pour ce niveau de représentation, s'il ne faut pas surcharger la carte en ajoutant plus de toponymes"
   },
   {
     "filename": "Maps10.mp4",
