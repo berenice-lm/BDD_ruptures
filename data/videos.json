@@ -72,9 +72,9 @@
   {
     "filename": "Maps10.mp4",
     "carte": "Google Maps",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "déconnexion",
+    "donnee_impactee": "route",
+    "description": "Les carrefours complexes, difficiles à bien simplifier, disparaissent simplement, créant des discontinuités"
   },
   {
     "filename": "Maps11.mp4",
