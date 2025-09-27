@@ -2,7 +2,7 @@
   {
     "filename": "Maps_ancien.mp4",
     "carte": "Google Maps",
-    "type_rupture": "incohérence stylistique",
+    "type_rupture": "cohérence",
     "donnee_impactee": "fond de carte",
     "description": "Le fond de carte vert, induisant une couverture végétale qui démarque bien avec les zones urbaines, disparaît progressivement. Au-delà de l'incohérence stylistique, elle brouille aussi la frontière urbaine précédemment perçue"
   },
@@ -23,9 +23,9 @@
   {
     "filename": "Maps3.mp4",
     "carte": "Google Maps",
-    "type_rupture": "déconnexion",
-    "donnee_impactee": "route",
-    "description": "La sélection attributaire des routes supprime les nationales avant les autoroutes, ce qui peut faire sens sur le papier, mais pas en pratique compte tenu du fait que les nationales servent souvent à connecter des bouts d'autoroutes entre-elles"
+    "type_rupture": "cohérence",
+    "donnee_impactee": "végétation",
+    "description": "La suppression de deux grands PNR à un niveau où continuent d'apparaître d'autres surfaces végétales plus petites interroge les critères de généralisation. Les choix attributaires ne sont pas clairs et provoquent une incompréhension problématique"
   },
   {
     "filename": "Maps4.mp4",
@@ -79,30 +79,30 @@
   {
     "filename": "Maps11.mp4",
     "carte": "Google Maps",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "apparition",
+    "donnee_impactee": "végétation",
+    "description": "A très grande échelle, la végétation n'est pas représentée, ce qui indique qu'il n'y a pas de couverture végétale à cet endroit. Pourtant, en dézoomant, on se rend compte que ce n'est pas le cas. C'est donc une incohérence sur le plan sémantique mais également logique car l'échelle la plus zoomée doit être la plus détaillée"
   },
   {
     "filename": "Maps12.mp4",
     "carte": "Google Maps",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "déconnexion",
+    "donnee_impactee": "route",
+    "description": "La sélection attributaire des routes supprime les nationales avant les autoroutes, ce qui peut faire sens sur le papier, mais pas en pratique compte tenu du fait que les nationales servent souvent à connecter des bouts d'autoroutes entre-elles"
   },
   {
     "filename": "Maps13.mp4",
     "carte": "Google Maps",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "rythmique",
+    "donnee_impactee": "toponyme",
+    "description": "La sélection des toponymes est trop brutale, et gagnerait à être répartie sur plus de niveaux de zoom. Une telle quantité d'informations à l'écran risque également de provoquer des cas d'abandon de lecture dus au clutter de la carte. Ce problème vient sans doute d'un manque de hiérarchie toponymique russe"
   },
   {
     "filename": "OSM1.mp4",
     "carte": "OpenStreetMap",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "cohérence",
+    "donnee_impactee": "route",
+    "description": "Certaines routes, en gris foncé, deviennent jaunes ou blanches, en fonction d'une différence hiérarchique qui n'apparaissait pas pas au préalable. Cette incohérence stylistique brouille donc la hiérarchie de la carte, en plus de créer un problème logique de représentation"
   },
   {
     "filename": "OSM2.mp4",
@@ -205,7 +205,7 @@
   {
     "filename": "Vidéo_01.mp4",
     "carte": "La bonne carte (exp.1)",
-    "type_rupture": "incohérence stylistique",
+    "type_rupture": "cohérence",
     "donnee_impactee": "toponyme",
     "description": "blabla"
   },
