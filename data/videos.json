@@ -2,105 +2,105 @@
   {
     "filename": "Maps_ancien.mp4",
     "carte": "Google Maps",
-    "type_rupture": "cohérence",
+    "type_rupture": "cohérence - stylistique",
     "donnee_impactee": "fond de carte",
     "description": "Le fond de carte vert, induisant une couverture végétale qui démarque bien avec les zones urbaines, disparaît progressivement. Au-delà de l'incohérence stylistique, elle brouille aussi la frontière urbaine précédemment perçue"
   },
   {
     "filename": "Maps1.mp4",
     "carte": "Google Maps",
-    "type_rupture": "déconnexion",
+    "type_rupture": "cohérence - déconnexion",
     "donnee_impactee": "cours d'eau",
     "description": "La généralisation hydrographique, en supprimant les aires en-dessous d'un certain seuil, crée des déconnexions illogiques dans le réseau"
   },
   {
     "filename": "Maps2.mp4",
     "carte": "Google Maps",
-    "type_rupture": "rythmique",
+    "type_rupture": "rythmique - fréquence",
     "donnee_impactee": "voie ferrée",
     "description": "Les voies ferrées ne sont pas généralisées, ce qui apporte plus de clutter sur la carte, et disparaissent subitement"
   },
   {
     "filename": "Maps3.mp4",
     "carte": "Google Maps",
-    "type_rupture": "cohérence",
+    "type_rupture": "cohérence - hiérarchie",
     "donnee_impactee": "végétation",
     "description": "La suppression de deux grands PNR à un niveau où continuent d'apparaître d'autres surfaces végétales plus petites interroge les critères de généralisation. Les choix attributaires ne sont pas clairs et provoquent une incompréhension problématique"
   },
   {
     "filename": "Maps4.mp4",
     "carte": "Google Maps",
-    "type_rupture": "rythmique",
+    "type_rupture": "rythmique - abstraction",
     "donnee_impactee": "lac",
     "description": "La sélection de la multitude de lacs en un unique lac décrit assez mal la réalité et peut plus facilement provoquer de la surprise lors d'un zoom sur cette zone"
   },
   {
     "filename": "Maps5.mp4",
     "carte": "Google Maps",
-    "type_rupture": "rythmique",
+    "type_rupture": "rythmique - abstraction",
     "donnee_impactee": "lac",
     "description": "La sélection des lacs représente mal l'emprise de tous les lacs au zoom suivant, ce qui surprend"
   },
   {
     "filename": "Maps6.mp4",
     "carte": "Google Maps",
-    "type_rupture": "rythmique",
+    "type_rupture": "rythmique - fréquence",
     "donnee_impactee": "rivière",
     "description": "Les rivières linéaires ne sont pas du tout généralisées, ce surprend en plus d'apporter du clutter dans la carte. Il aurait fallu répartir les détails des rivières sur plus de niveaux de zoom"
   },
   {
     "filename": "Maps7.mp4",
     "carte": "Google Maps",
-    "type_rupture": "uniformité",
+    "type_rupture": "séquence - hiérarchie verticale",
     "donnee_impactee": "toponyme",
     "description": "Les toponymes ne sont pas du tout hiérarchisés possèdent tous le même style (taille, forme, couleur), ce qui peut poser problème car la vue cartographique ne garde pas les points de repères des vues d'avant et après"
   },
   {
     "filename": "Maps8.mp4",
     "carte": "Google Maps",
-    "type_rupture": "cohérence",
+    "type_rupture": "rythmique - composition",
     "donnee_impactee": "route",
     "description": "La densité des routes ne correspond pas à la densité des toponymes. L'impression de routes qui ne mènent à rien s'ajoutent à l'incompréhension du processus de sélection des toponymes"
   },
   {
     "filename": "Maps9.mp4",
     "carte": "Google Maps",
-    "type_rupture": "cohérence",
+    "type_rupture": "rythmique - composition",
     "donnee_impactee": "aire urbaine",
     "description": "La sélection des aires urbaines ne correspond pas à celle des toponymes. Le nombre d'aires urbaines sans toponyme interroge. Néanmoins, les aires semblent cohérentes avec le réseau routier, ce qui peut signifier que les deux jeux de données sont trop denses pour ce niveau de représentation, s'il ne faut pas surcharger la carte en ajoutant plus de toponymes"
   },
   {
     "filename": "Maps10.mp4",
     "carte": "Google Maps",
-    "type_rupture": "déconnexion",
+    "type_rupture": "cohérence - déconnexion",
     "donnee_impactee": "route",
     "description": "Les carrefours complexes, difficiles à bien simplifier, disparaissent simplement, créant des discontinuités"
   },
   {
     "filename": "Maps11.mp4",
     "carte": "Google Maps",
-    "type_rupture": "apparition",
+    "type_rupture": "cohérence - hiérarchie",
     "donnee_impactee": "végétation",
     "description": "A très grande échelle, la végétation n'est pas représentée, ce qui indique qu'il n'y a pas de couverture végétale à cet endroit. Pourtant, en dézoomant, on se rend compte que ce n'est pas le cas. C'est donc une incohérence sur le plan sémantique mais également logique car l'échelle la plus zoomée doit être la plus détaillée"
   },
   {
     "filename": "Maps12.mp4",
     "carte": "Google Maps",
-    "type_rupture": "déconnexion",
+    "type_rupture": "cohérence - déconnexion",
     "donnee_impactee": "route",
     "description": "La sélection attributaire des routes supprime les nationales avant les autoroutes, ce qui peut faire sens sur le papier, mais pas en pratique compte tenu du fait que les nationales servent souvent à connecter des bouts d'autoroutes entre-elles"
   },
   {
     "filename": "Maps13.mp4",
     "carte": "Google Maps",
-    "type_rupture": "rythmique",
+    "type_rupture": "rythmique - fréquence",
     "donnee_impactee": "toponyme",
     "description": "La sélection des toponymes est trop brutale, et gagnerait à être répartie sur plus de niveaux de zoom. Une telle quantité d'informations à l'écran risque également de provoquer des cas d'abandon de lecture dus au clutter de la carte. Ce problème vient sans doute d'un manque de hiérarchie toponymique russe"
   },
   {
     "filename": "OSM1.mp4",
     "carte": "OpenStreetMap",
-    "type_rupture": "cohérence",
+    "type_rupture": "cohérence - stylistique",
     "donnee_impactee": "route",
     "description": "Certaines routes, en gris foncé, deviennent jaunes ou blanches, en fonction d'une différence hiérarchique qui n'apparaissait pas pas au préalable. Cette incohérence stylistique brouille donc la hiérarchie de la carte, en plus de créer un problème logique de représentation"
   },
