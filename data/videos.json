@@ -203,6 +203,20 @@
     "description": "blabla"
   },
   {
+    "filename": "Lux1.mp4",
+    "carte": "Géoportail Luxembourg",
+    "type_rupture": "séquence - hiérarchie verticale",
+    "donnee_impactee": "toponyme",
+    "description": "Les toponymes ne sont pas hiérarchisés entre eux, ce qui fait perdre plus facilement les repères aux utilisateurs d'un zoom à l'autre"
+  },
+  {
+    "filename": "Lux2.mp4",
+    "carte": "Géoportail Luxembourg",
+    "type_rupture": "cohérence",
+    "donnee_impactee": "route",
+    "description": "Les routes blanches disparaissent avant les chemins, pourtant moins importants. Bien que très illisibles, leur contour reste visible et ce à toutes les échelles, ce qui n'est pas cohérent avec les logiques de généralisation"
+  },
+  {
     "filename": "Vidéo_01.mp4",
     "carte": "La bonne carte (exp.1)",
     "type_rupture": "cohérence",
