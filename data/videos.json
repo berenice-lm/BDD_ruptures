@@ -107,37 +107,37 @@
   {
     "filename": "OSM2.mp4",
     "carte": "OpenStreetMap",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "cohérence - déconnexion",
+    "donnee_impactee": "route",
+    "description": "On retrouve les mêmes déconnexions entre les bouts d'autoroutes, dues à une mauvaise sélection attributaire"
   },
   {
     "filename": "OSM3.mp4",
     "carte": "OpenStreetMap",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "cohérence - déconnexion",
+    "donnee_impactee": "rivière",
+    "description": "L'ensemble du réseau hydrographique n'a pas été représenté en surfacique, sûrement dû à des variations locales de largeur du réseau, ce qui crée des déconnexions lorsque le réseau linéaire est supprimé"
   },
   {
     "filename": "PlanIGN1.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "rythmique - fréquence",
+    "donnee_impactee": "toponyme",
+    "description": "La sélection des toponymes est très brutale d'un zoom à l'autre car il aurait fallu en retirer bien avant. On retrouve une densité très forte qui en plus crée du clutter et diminue la lisibilité cartographique"
   },
   {
     "filename": "PlanIGN2.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "séquence - césure",
+    "donnee_impactee": "lac",
+    "description": "La césure entre le trait de côté et la baie est très abrupte et fait perdre les repères. La césure aurait peut-être mérité d'être adoucie par un fondu"
   },
   {
     "filename": "PlanIGN3.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "cohérence - homogénéité",
+    "donnee_impactee": "tout",
+    "description": "Le changement entre la séquence-macro du relief et la séquence-macro du réseau routier implique une très grande hétérogénéité stylistique qui créent de nombreuses incohérences. Nous retrouvons entre autres une incohérence stylistique entre le vert des faibles altitude et le même vert de la végétation : deux mêmes couleurs pour signifier deux choses très différentes"
   },
   {
     "filename": "PlanIGN4.mp4",
@@ -212,7 +212,7 @@
   {
     "filename": "Lux2.mp4",
     "carte": "Géoportail Luxembourg",
-    "type_rupture": "cohérence",
+    "type_rupture": "cohérence - hiérarchie",
     "donnee_impactee": "route",
     "description": "Les routes blanches disparaissent avant les chemins, pourtant moins importants. Bien que très illisibles, leur contour reste visible et ce à toutes les échelles, ce qui n'est pas cohérent avec les logiques de généralisation"
   },
@@ -226,14 +226,14 @@
   {
     "filename": "Vidéo_02.mp4",
     "carte": "La bonne carte (exp.1)",
-    "type_rupture": "déplacement",
+    "type_rupture": "cohérence - déplacement",
     "donnee_impactee": "toponyme",
     "description": "blabla"
   },
   {
     "filename": "Vidéo_02.mp4",
     "carte": "La bonne carte (exp.1)",
-    "type_rupture": "déconnexion",
+    "type_rupture": "cohérence - déconnexion",
     "donnee_impactee": "rivière",
     "description": "blabla"
   },
