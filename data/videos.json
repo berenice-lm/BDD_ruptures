@@ -10,7 +10,7 @@
     "filename": "Maps1.mp4",
     "carte": "Google Maps",
     "type_rupture": "cohérence - déconnexion",
-    "donnee_impactee": "cours d'eau",
+    "donnee_impactee": "rivière",
     "description": "La généralisation hydrographique, en supprimant les aires en-dessous d'un certain seuil, crée des déconnexions illogiques dans le réseau"
   },
   {
@@ -184,9 +184,9 @@
   {
     "filename": "PlanIGN10.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "rythmique - fréquence",
+    "donnee_impactee": "toponyme",
+    "description": "Le château représente une ancre assez importante, et mériterait à être représenté sur plus de niveaux de zoom pour mieux ancrer la carte. Ce n'est pas directement une rupture, mais "
   },
   {
     "filename": "PlanIGN11.mp4",
