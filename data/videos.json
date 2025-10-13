@@ -142,44 +142,44 @@
   {
     "filename": "PlanIGN4.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "rythmique - fréquence",
+    "donnee_impactee": "lac",
+    "description": "Le niveau le plus dézoomé ne possède aucune trace d'une présence quelconque de lacs, ce qui est très déstabilisant quand on zoome sur une zone très dense, hydrographiquement. Il aurait fallu garder une trace de cette présence sur plus de zooms, même moins détaillée"
   },
   {
     "filename": "PlanIGN5.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "cohérence - disparition",
+    "donnee_impactee": "toponyme",
+    "description": "Le toponyme 'les Quatre-Chmins' disparaît au zoom suivant, ce qui n'est pas logique dans le principe de généralisation"
   },
   {
     "filename": "PlanIGN6.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "cohérence - stylistique",
+    "donnee_impactee": "route",
+    "description": "Le réseau routier le moins important change du blanc au jaune, ce qui peut représenter une incohérence stylistique déroutante pour certains utilisateurs. Au-là de cet aspect, on retrouve peut-être également un problème de composition, où les deux thèmes principaux (toponymes et routes) sont les seuls visibles. Lors de l'arrivée des autres thèmes (végétation et rivières) au zoom suivant, l'impression de 'vide' qui se remplit brusquement peut également désorienter"
   },
   {
     "filename": "PlanIGN7.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "séquence - motif",
+    "donnee_impactee": "toponyme",
+    "description": "L'uniformisation du traitement toponymique dans la zone ne permet pas à l'utilisateur de bien voir une grosse distinction spatiale entre les formes plus denses au sud et le peuplement plus isolé au nord. Ces différentes formes de peuplement devraient apparaître à tous les niveaux de zoom et c'est au cartographe d'adapter localement les changements de densité pour éviter les captures d'attention, dont nous avons un très bon exemple ici"
   },
   {
     "filename": "PlanIGN8.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "cohérence - déplacement",
+    "donnee_impactee": "route",
+    "description": "L'autoroute subit un important déplacement, qui aurait très bien pu être beaucoup plus léger. C'est très perturbant"
   },
   {
     "filename": "PlanIGN9.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "séquence - motif",
+    "donnee_impactee": "route",
+    "description": "Le motif des carrefours complexes n'est pas généralisé de manière progressive, et surtout pas de manière à faire une transition avec l'autre motif de la route principale. Un gros travail de déplacement routier permet effectivement de mieux voir tout le détail du motif en dézoomant, sans que ce soit réellement utile de représenter un tel niveau de détail à cette échelle. Au contraire, elle crée une très grande différence d'abstraction avec le niveau suivant. C'est donc également une rupture rythmique et une incohérence, car l'utilisateur a l'impression de voir plus de détails lors d'un dézoom, ce qui devrait être l'inverse"
   },
   {
     "filename": "PlanIGN10.mp4",
@@ -219,7 +219,7 @@
   {
     "filename": "Vidéo_01.mp4",
     "carte": "La bonne carte (exp.1)",
-    "type_rupture": "cohérence",
+    "type_rupture": "cohérence - hiérarchie",
     "donnee_impactee": "toponyme",
     "description": "blabla"
   },
