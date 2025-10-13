@@ -191,16 +191,16 @@
   {
     "filename": "PlanIGN11.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "rythmique - composition",
+    "donnee_impactee": "végétation",
+    "description": "Le passage du premier niveau au second paraît très abrupt car deux thèmes très importants (toponymes) ou saillants (végétation) changent en même temps. C'est d'autant plus perturbant qu'ils changent de façon également assez marquée. C'est donc une rupture rythmique de type abstraction mais également de type composition"
   },
   {
     "filename": "PlanIGN12.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "rythmique - abstraction",
+    "donnee_impactee": "végétation",
+    "description": "Les surfaces végétales sont tellement abstraites qu'elle en perdent leur sens, devenant des formes géométriques si peu réelles qu'elles en deviennent incohérentes avec le niveau de détail des autres thèmes présents sur le même niveau de représentation"
   },
   {
     "filename": "Lux1.mp4",
