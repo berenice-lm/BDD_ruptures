@@ -218,37 +218,22 @@
   },
   {
     "filename": "Vidéo_01.mp4",
-<<<<<<< HEAD
     "carte": "La bonne carte (exp.1 - étape 1)",
-    "type_rupture": "incohérence stylistique",
-=======
-    "carte": "La bonne carte (exp.1)",
     "type_rupture": "cohérence - hiérarchie",
->>>>>>> f622a0b681bb54268716d96a03387a7cef6cc64e
     "donnee_impactee": "toponyme",
     "description": "blabla"
   },
   {
     "filename": "Vidéo_02.mp4",
-<<<<<<< HEAD
     "carte": "La bonne carte (exp.1 - étape 1)",
-    "type_rupture": "déplacement",
-=======
-    "carte": "La bonne carte (exp.1)",
     "type_rupture": "cohérence - déplacement",
->>>>>>> f622a0b681bb54268716d96a03387a7cef6cc64e
     "donnee_impactee": "toponyme",
     "description": "blabla"
   },
   {
     "filename": "Vidéo_02.mp4",
-<<<<<<< HEAD
     "carte": "La bonne carte (exp.1 - étape 1)",
-    "type_rupture": "déconnexion",
-=======
-    "carte": "La bonne carte (exp.1)",
     "type_rupture": "cohérence - déconnexion",
->>>>>>> f622a0b681bb54268716d96a03387a7cef6cc64e
     "donnee_impactee": "rivière",
     "description": "blabla"
   },
