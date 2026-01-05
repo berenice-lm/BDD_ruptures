@@ -2,224 +2,253 @@
   {
     "filename": "Maps_ancien.mp4",
     "carte": "Google Maps",
-    "type_rupture": "incohérence stylistique",
+    "type_rupture": "cohérence - stylistique",
     "donnee_impactee": "fond de carte",
     "description": "Le fond de carte vert, induisant une couverture végétale qui démarque bien avec les zones urbaines, disparaît progressivement. Au-delà de l'incohérence stylistique, elle brouille aussi la frontière urbaine précédemment perçue"
   },
   {
     "filename": "Maps1.mp4",
     "carte": "Google Maps",
-    "type_rupture": "déconnexion",
-    "donnee_impactee": "cours d'eau",
+    "type_rupture": "cohérence - déconnexion",
+    "donnee_impactee": "rivière",
     "description": "La généralisation hydrographique, en supprimant les aires en-dessous d'un certain seuil, crée des déconnexions illogiques dans le réseau"
   },
   {
     "filename": "Maps2.mp4",
     "carte": "Google Maps",
-    "type_rupture": "rythmique",
+    "type_rupture": "rythmique - fréquence",
     "donnee_impactee": "voie ferrée",
     "description": "Les voies ferrées ne sont pas généralisées, ce qui apporte plus de clutter sur la carte, et disparaissent subitement"
   },
   {
     "filename": "Maps3.mp4",
     "carte": "Google Maps",
-    "type_rupture": "déconnexion",
-    "donnee_impactee": "route",
-    "description": "La sélection attributaire des routes supprime les nationales avant les autoroutes, ce qui peut faire sens sur le papier, mais pas en pratique compte tenu du fait que les nationales servent souvent à connecter des bouts d'autoroutes entre-elles"
+    "type_rupture": "cohérence - hiérarchie",
+    "donnee_impactee": "végétation",
+    "description": "La suppression de deux grands PNR à un niveau où continuent d'apparaître d'autres surfaces végétales plus petites interroge les critères de généralisation. Les choix attributaires ne sont pas clairs et provoquent une incompréhension problématique"
   },
   {
     "filename": "Maps4.mp4",
     "carte": "Google Maps",
-    "type_rupture": "rythmique",
+    "type_rupture": "rythmique - abstraction",
     "donnee_impactee": "lac",
     "description": "La sélection de la multitude de lacs en un unique lac décrit assez mal la réalité et peut plus facilement provoquer de la surprise lors d'un zoom sur cette zone"
   },
   {
     "filename": "Maps5.mp4",
     "carte": "Google Maps",
-    "type_rupture": "rythmique",
+    "type_rupture": "rythmique - abstraction",
     "donnee_impactee": "lac",
     "description": "La sélection des lacs représente mal l'emprise de tous les lacs au zoom suivant, ce qui surprend"
   },
   {
     "filename": "Maps6.mp4",
     "carte": "Google Maps",
-    "type_rupture": "rythmique",
+    "type_rupture": "rythmique - fréquence",
     "donnee_impactee": "rivière",
     "description": "Les rivières linéaires ne sont pas du tout généralisées, ce surprend en plus d'apporter du clutter dans la carte. Il aurait fallu répartir les détails des rivières sur plus de niveaux de zoom"
   },
   {
     "filename": "Maps7.mp4",
     "carte": "Google Maps",
-    "type_rupture": "uniformité",
+    "type_rupture": "séquence - hiérarchie verticale",
     "donnee_impactee": "toponyme",
     "description": "Les toponymes ne sont pas du tout hiérarchisés possèdent tous le même style (taille, forme, couleur), ce qui peut poser problème car la vue cartographique ne garde pas les points de repères des vues d'avant et après"
   },
   {
     "filename": "Maps8.mp4",
     "carte": "Google Maps",
-    "type_rupture": "cohérence",
+    "type_rupture": "rythmique - composition",
     "donnee_impactee": "route",
     "description": "La densité des routes ne correspond pas à la densité des toponymes. L'impression de routes qui ne mènent à rien s'ajoutent à l'incompréhension du processus de sélection des toponymes"
   },
   {
     "filename": "Maps9.mp4",
     "carte": "Google Maps",
-    "type_rupture": "cohérence",
+    "type_rupture": "rythmique - composition",
     "donnee_impactee": "aire urbaine",
     "description": "La sélection des aires urbaines ne correspond pas à celle des toponymes. Le nombre d'aires urbaines sans toponyme interroge. Néanmoins, les aires semblent cohérentes avec le réseau routier, ce qui peut signifier que les deux jeux de données sont trop denses pour ce niveau de représentation, s'il ne faut pas surcharger la carte en ajoutant plus de toponymes"
   },
   {
     "filename": "Maps10.mp4",
     "carte": "Google Maps",
-    "type_rupture": "déconnexion",
+    "type_rupture": "cohérence - déconnexion",
     "donnee_impactee": "route",
     "description": "Les carrefours complexes, difficiles à bien simplifier, disparaissent simplement, créant des discontinuités"
   },
   {
     "filename": "Maps11.mp4",
     "carte": "Google Maps",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "cohérence - hiérarchie",
+    "donnee_impactee": "végétation",
+    "description": "A très grande échelle, la végétation n'est pas représentée, ce qui indique qu'il n'y a pas de couverture végétale à cet endroit. Pourtant, en dézoomant, on se rend compte que ce n'est pas le cas. C'est donc une incohérence sur le plan sémantique mais également logique car l'échelle la plus zoomée doit être la plus détaillée"
   },
   {
     "filename": "Maps12.mp4",
     "carte": "Google Maps",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "cohérence - déconnexion",
+    "donnee_impactee": "route",
+    "description": "La sélection attributaire des routes supprime les nationales avant les autoroutes, ce qui peut faire sens sur le papier, mais pas en pratique compte tenu du fait que les nationales servent souvent à connecter des bouts d'autoroutes entre-elles"
   },
   {
     "filename": "Maps13.mp4",
     "carte": "Google Maps",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "rythmique - fréquence",
+    "donnee_impactee": "toponyme",
+    "description": "La sélection des toponymes est trop brutale, et gagnerait à être répartie sur plus de niveaux de zoom. Une telle quantité d'informations à l'écran risque également de provoquer des cas d'abandon de lecture dus au clutter de la carte. Ce problème vient sans doute d'un manque de hiérarchie toponymique russe"
   },
   {
     "filename": "OSM1.mp4",
     "carte": "OpenStreetMap",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "cohérence - stylistique",
+    "donnee_impactee": "route",
+    "description": "Certaines routes, en gris foncé, deviennent jaunes ou blanches, en fonction d'une différence hiérarchique qui n'apparaissait pas pas au préalable. Cette incohérence stylistique brouille donc la hiérarchie de la carte, en plus de créer un problème logique de représentation"
   },
   {
     "filename": "OSM2.mp4",
     "carte": "OpenStreetMap",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "cohérence - déconnexion",
+    "donnee_impactee": "route",
+    "description": "On retrouve les mêmes déconnexions entre les bouts d'autoroutes, dues à une mauvaise sélection attributaire"
   },
   {
     "filename": "OSM3.mp4",
     "carte": "OpenStreetMap",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "cohérence - déconnexion",
+    "donnee_impactee": "rivière",
+    "description": "L'ensemble du réseau hydrographique n'a pas été représenté en surfacique, sûrement dû à des variations locales de largeur du réseau, ce qui crée des déconnexions lorsque le réseau linéaire est supprimé"
   },
   {
     "filename": "PlanIGN1.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "rythmique - fréquence",
+    "donnee_impactee": "toponyme",
+    "description": "La sélection des toponymes est très brutale d'un zoom à l'autre car il aurait fallu en retirer bien avant. On retrouve une densité très forte qui en plus crée du clutter et diminue la lisibilité cartographique"
   },
   {
     "filename": "PlanIGN2.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "séquence - césure",
+    "donnee_impactee": "lac",
+    "description": "La césure entre le trait de côté et la baie est très abrupte et fait perdre les repères. La césure aurait peut-être mérité d'être adoucie par un fondu"
   },
   {
     "filename": "PlanIGN3.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "cohérence - homogénéité",
+    "donnee_impactee": "tout",
+    "description": "Le changement entre la séquence-macro du relief et la séquence-macro du réseau routier implique une très grande hétérogénéité stylistique qui créent de nombreuses incohérences. Nous retrouvons entre autres une incohérence stylistique entre le vert des faibles altitude et le même vert de la végétation : deux mêmes couleurs pour signifier deux choses très différentes"
   },
   {
     "filename": "PlanIGN4.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "rythmique - fréquence",
+    "donnee_impactee": "lac",
+    "description": "Le niveau le plus dézoomé ne possède aucune trace d'une présence quelconque de lacs, ce qui est très déstabilisant quand on zoome sur une zone très dense, hydrographiquement. Il aurait fallu garder une trace de cette présence sur plus de zooms, même moins détaillée"
   },
   {
     "filename": "PlanIGN5.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "cohérence - disparition",
+    "donnee_impactee": "toponyme",
+    "description": "Le toponyme 'les Quatre-Chmins' disparaît au zoom suivant, ce qui n'est pas logique dans le principe de généralisation"
   },
   {
     "filename": "PlanIGN6.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "cohérence - stylistique",
+    "donnee_impactee": "route",
+    "description": "Le réseau routier le moins important change du blanc au jaune, ce qui peut représenter une incohérence stylistique déroutante pour certains utilisateurs. Au-là de cet aspect, on retrouve peut-être également un problème de composition, où les deux thèmes principaux (toponymes et routes) sont les seuls visibles. Lors de l'arrivée des autres thèmes (végétation et rivières) au zoom suivant, l'impression de 'vide' qui se remplit brusquement peut également désorienter"
   },
   {
     "filename": "PlanIGN7.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "séquence - motif",
+    "donnee_impactee": "toponyme",
+    "description": "L'uniformisation du traitement toponymique dans la zone ne permet pas à l'utilisateur de bien voir une grosse distinction spatiale entre les formes plus denses au sud et le peuplement plus isolé au nord. Ces différentes formes de peuplement devraient apparaître à tous les niveaux de zoom et c'est au cartographe d'adapter localement les changements de densité pour éviter les captures d'attention, dont nous avons un très bon exemple ici"
   },
   {
     "filename": "PlanIGN8.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "cohérence - déplacement",
+    "donnee_impactee": "route",
+    "description": "L'autoroute subit un important déplacement, qui aurait très bien pu être beaucoup plus léger. C'est très perturbant"
   },
   {
     "filename": "PlanIGN9.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "séquence - motif",
+    "donnee_impactee": "route",
+    "description": "Le motif des carrefours complexes n'est pas généralisé de manière progressive, et surtout pas de manière à faire une transition avec l'autre motif de la route principale. Un gros travail de déplacement routier permet effectivement de mieux voir tout le détail du motif en dézoomant, sans que ce soit réellement utile de représenter un tel niveau de détail à cette échelle. Au contraire, elle crée une très grande différence d'abstraction avec le niveau suivant. C'est donc également une rupture rythmique et une incohérence, car l'utilisateur a l'impression de voir plus de détails lors d'un dézoom, ce qui devrait être l'inverse"
   },
   {
     "filename": "PlanIGN10.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "rythmique - fréquence",
+    "donnee_impactee": "toponyme",
+    "description": "Le château représente une ancre assez importante, et mériterait à être représenté sur plus de niveaux de zoom pour mieux ancrer la carte. Ce n'est pas directement une rupture, mais "
   },
   {
     "filename": "PlanIGN11.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "rythmique - composition",
+    "donnee_impactee": "végétation",
+    "description": "Le passage du premier niveau au second paraît très abrupt car deux thèmes très importants (toponymes) ou saillants (végétation) changent en même temps. C'est d'autant plus perturbant qu'ils changent de façon également assez marquée. C'est donc une rupture rythmique de type abstraction mais également de type composition"
   },
   {
     "filename": "PlanIGN12.mp4",
     "carte": "Plan IGN",
-    "type_rupture": "non_rempli",
-    "donnee_impactee": "non_rempli",
-    "description": "blabla"
+    "type_rupture": "rythmique - abstraction",
+    "donnee_impactee": "végétation",
+    "description": "Les surfaces végétales sont tellement abstraites qu'elle en perdent leur sens, devenant des formes géométriques si peu réelles qu'elles en deviennent incohérentes avec le niveau de détail des autres thèmes présents sur le même niveau de représentation"
+  },
+  {
+    "filename": "Lux1.mp4",
+    "carte": "Géoportail Luxembourg",
+    "type_rupture": "séquence - hiérarchie verticale",
+    "donnee_impactee": "toponyme",
+    "description": "Les toponymes ne sont pas hiérarchisés entre eux, ce qui fait perdre plus facilement les repères aux utilisateurs d'un zoom à l'autre"
+  },
+  {
+    "filename": "Lux2.mp4",
+    "carte": "Géoportail Luxembourg",
+    "type_rupture": "cohérence - hiérarchie",
+    "donnee_impactee": "route",
+    "description": "Les routes blanches disparaissent avant les chemins, pourtant moins importants. Bien que très illisibles, leur contour reste visible et ce à toutes les échelles, ce qui n'est pas cohérent avec les logiques de généralisation"
   },
   {
     "filename": "Vidéo_01.mp4",
+<<<<<<< HEAD
     "carte": "La bonne carte (exp.1 - étape 1)",
     "type_rupture": "incohérence stylistique",
+=======
+    "carte": "La bonne carte (exp.1)",
+    "type_rupture": "cohérence - hiérarchie",
+>>>>>>> f622a0b681bb54268716d96a03387a7cef6cc64e
     "donnee_impactee": "toponyme",
     "description": "blabla"
   },
   {
     "filename": "Vidéo_02.mp4",
+<<<<<<< HEAD
     "carte": "La bonne carte (exp.1 - étape 1)",
     "type_rupture": "déplacement",
+=======
+    "carte": "La bonne carte (exp.1)",
+    "type_rupture": "cohérence - déplacement",
+>>>>>>> f622a0b681bb54268716d96a03387a7cef6cc64e
     "donnee_impactee": "toponyme",
     "description": "blabla"
   },
   {
     "filename": "Vidéo_02.mp4",
+<<<<<<< HEAD
     "carte": "La bonne carte (exp.1 - étape 1)",
     "type_rupture": "déconnexion",
+=======
+    "carte": "La bonne carte (exp.1)",
+    "type_rupture": "cohérence - déconnexion",
+>>>>>>> f622a0b681bb54268716d96a03387a7cef6cc64e
     "donnee_impactee": "rivière",
     "description": "blabla"
   },
